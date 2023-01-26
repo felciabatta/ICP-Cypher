@@ -1,0 +1,4 @@
+Total Word Count: 15
+Unique Word Count: 14
+Min Word Length: 2
+Max Word Length: 14
